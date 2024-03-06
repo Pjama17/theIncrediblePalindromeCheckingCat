@@ -1,4 +1,4 @@
-# THE INCREDIBLE PALINDROME CHECKING CAT
+## THE INCREDIBLE PALINDROME CHECKING CAT
 ## My spin on the freeCodeCamp JavaScript Palindrome Checker exercise
 
 - I did this exercise on freeCodeCamp, then copied the code over to my CodePen to play
