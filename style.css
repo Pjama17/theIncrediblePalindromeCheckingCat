@@ -1,0 +1,82 @@
+body {
+  background-color:#D9E2CB
+}
+
+#header {
+color: white;
+background-color: #CD8ADB;
+font-size: 44pt;
+font-family: Arial;
+padding: 40px;
+text-align: center;
+border-radius: 10px;
+
+}
+
+#cat-image {
+  border: 5px solid;
+  text-align: center;
+ display: flex;
+  flex-direction: column;
+  height: auto;
+  width: auto;
+  background-color: #ECE0F2;
+  border-radius: 10px;
+}
+#mini {
+  max-width: 100%;
+    border-radius: 10px;
+}
+
+#thinking-cat {
+  font-size: 22pt;
+  padding: 10;
+  font-family: Arial;
+  font-style: italic;
+
+
+}
+#boxes {
+  padding: 20px;
+  text-align: left;
+  
+}
+
+#text-input {
+  border: 10px solid #CD8ADB;
+  margin: 10;
+  height: 80px;
+  width: auto%;
+  font-size: 24pt;
+  padding: 10px;
+    border-radius: 10px;
+}
+
+#check-btn
+{
+    border: 10px solid #CD8ADB;
+    
+  font-size: 24pt;
+  background: pink;
+  width: 75%;
+  padding: 10px;
+  margin: 10;
+    border-radius: 10px;
+    
+}
+
+
+#result {
+   
+    border: 10px solid #CD8ADB;
+    font-size: 24pt;
+    margin: 10 17;
+     padding: 10px;
+     width: auto;
+     font-family: Arial;
+       border-radius: 10px;
+       min-height: 40px;
+       background-color: white;
+  
+    
+}
